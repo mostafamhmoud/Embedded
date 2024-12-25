@@ -1,0 +1,5 @@
+main.c:26:5:main	1
+main.c:45:6:task1_handler	1
+main.c:52:6:task2_handler	1
+main.c:59:6:task3_handler	1
+main.c:66:6:task4_handler	1
