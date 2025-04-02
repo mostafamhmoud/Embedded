@@ -1,0 +1,5 @@
+../Core/Src/RTC.c:4:6:RTC_ShowTimeDate	64	static
+../Core/Src/RTC.c:48:6:RTC_ConfigTime	40	static
+../Core/Src/RTC.c:59:6:RTC_ConfigDate	24	static
+../Core/Src/RTC.c:70:9:RTC_ValidateRTCTimeConfig	24	static
+../Core/Src/RTC.c:86:9:RTC_ValidateRTCDateConfig	24	static

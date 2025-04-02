@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c"
+    },
+    "ros.distro": "humble"
+}

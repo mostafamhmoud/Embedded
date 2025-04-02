@@ -1,0 +1,8 @@
+../Core/Src/TaskHandlers.c:21:6:MenuTask	40	static
+../Core/Src/TaskHandlers.c:67:6:PrintTask	32	static
+../Core/Src/TaskHandlers.c:77:6:RtcTask	80	static
+../Core/Src/TaskHandlers.c:244:16:Get_Number	24	static
+../Core/Src/TaskHandlers.c:259:6:LedTask	40	static
+../Core/Src/TaskHandlers.c:323:6:CmdHandleTask	40	static
+../Core/Src/TaskHandlers.c:340:13:ProcessCmd	24	static
+../Core/Src/TaskHandlers.c:360:13:ExtractCmd	24	static

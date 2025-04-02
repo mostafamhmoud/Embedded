@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/anas/stm32/Common/third_party/FreeRTOS/",
+                "/home/anas/stm32/Common/third_party/FreeRTOS/portable/GCC/ARM_CM4F",
+                "/home/anas/stm32/Common/third_party/FreeRTOS/include",
+                "/home/anas/stm32/Common/third_party/SEGGER/SEGGER",
+                "/home/anas/stm32/Common/third_party/SEGGER/OS",
+                "/home/anas/stm32/Common/third_party/SEGGER/Config",
+                "/home/anas/stm32/FreeRTOS_project/Drivers/CMSIS/Include",
+                "/home/anas/stm32/FreeRTOS_project/Drivers/STM32F4xx_HAL_Driver/Inc",
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
