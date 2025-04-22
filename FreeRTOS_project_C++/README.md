@@ -45,7 +45,7 @@ The application includes:
 - Commands:
   - `'0'` → LED effect menu
   - `'1'` → RTC menu
-  - `'2'` → (Reserved/Future)
+  - `'2'` → (Exit)
 
 ### 💡 LED Effect System
 - Effects triggered by typed commands: `e1`, `e2`, `e3`, `e4`
