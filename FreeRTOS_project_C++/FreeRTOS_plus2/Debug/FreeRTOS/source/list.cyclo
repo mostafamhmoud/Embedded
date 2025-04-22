@@ -1,5 +1,0 @@
-../FreeRTOS/source/list.c:50:6:vListInitialise	1
-../FreeRTOS/source/list.c:86:6:vListInitialiseItem	1
-../FreeRTOS/source/list.c:98:6:vListInsertEnd	1
-../FreeRTOS/source/list.c:128:6:vListInsert	3
-../FreeRTOS/source/list.c:199:13:uxListRemove	2

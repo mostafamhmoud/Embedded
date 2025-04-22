@@ -1,4 +1,0 @@
-../Core/Inc/Queue_Wrapper.hpp:14:5:Queue<T>::Queue(size_t) [with T = const char*]	16	static
-../Core/Inc/Queue_Wrapper.hpp:14:5:Queue<T>::Queue(size_t) [with T = char]	16	static
-../Core/Src/shared_resource.cpp:99:17:void __static_initialization_and_destruction_0()	8	static
-../Core/Src/shared_resource.cpp:99:17:cpp)	8	static
