@@ -1,0 +1,4 @@
+../Core/Src/FreeRTOS_Timer.cpp:5:1:FreeRTOSTimer::FreeRTOSTimer(const char*, TickType_t, UBaseType_t, void*, TimerCallbackFunction_t)	1
+../Core/Src/FreeRTOS_Timer.cpp:16:6:bool FreeRTOSTimer::Start(TickType_t)	1
+../Core/Src/FreeRTOS_Timer.cpp:21:6:bool FreeRTOSTimer::Stop(TickType_t)	1
+../Core/Src/FreeRTOS_Timer.cpp:26:15:tmrTimerControl* FreeRTOSTimer::GetHandle() const	1
